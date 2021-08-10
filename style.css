@@ -1,0 +1,20 @@
+body {
+    background: url('bg.jpeg') no-repeat fixed;
+    background-size: cover;
+  
+}
+.menu {
+  width: 300px;
+  background: white;
+  border: none;
+  padding: 5px;
+  border-radius: 15px;
+  text-align: center;
+}
+.info {
+  border-radius: 5px;
+}
+#login {
+  cursor: pointer;
+  font-size: 150%;
+}
