@@ -38,9 +38,6 @@ var check = () => {
   }
 }
 
-//ajudando se esqueceu a senha/nome
-
-
 //logando
 
 var login = (nome,senha) => {
